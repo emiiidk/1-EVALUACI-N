@@ -49,7 +49,7 @@ def programa():
 
 programa ()
 
-#En primer lugar obtengo los diez primeros numeros a traves de la funcion input y definiendo las variables de cada valor introducido 
+#En primer lugar obtengo los diez primeros numeros a traves de la funcion input y definiendo las variables de cada valor introducido, tomando de referencia el programa que tu nos proporcionas, estableciendo 10 variables distintas y haciendo que el programa me pregunte 10 veces por los 10 numeros.
 #En segundo lugar establezco un bucle, hasta 10000, ya que considero que el usuario no va a introducir numeros mayores a este.
 #En tercer lugar, establezco 10 condiciones, con ayuda de la funcion if y elif. Cada una de ellas evaluara en cada proceso del for si ese numero es menor que la variable contadora i.
 #Por lo tanto, al evaluar esta condicion de forma reiterada, si alguno de los valores introducido es menor que la variable contadora i, entrara en el condicional, y mostrara en pantalla en numero en cuestion.
