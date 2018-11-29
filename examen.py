@@ -48,3 +48,10 @@ def programa():
 
 
 programa ()
+
+#En primer lugar obtengo los diez primeros numeros a traves de la funcion input y definiendo las variables de cada valor introducido 
+#En segundo lugar establezco un bucle, hasta 10000, ya que considero que el usuario no va a introducir numeros mayores a este.
+#En tercer lugar, establezco 10 condiciones, con ayuda de la funcion if y elif. Cada una de ellas evaluara en cada proceso del for si ese numero es menor que la variable contadora i.
+#Por lo tanto, al evaluar esta condicion de forma reiterada, si alguno de los valores introducido es menor que la variable contadora i, entrara en el condicional, y mostrara en pantalla en numero en cuestion.
+#Por ultimo, con la funcion break, al entrar en un condicional le estare indicando que tiene que detener el bucle, ya que solo busco que me muestre el numero en cuestion una vez en la pantalla, siendo este el menor de los numeros introducidos.
+
