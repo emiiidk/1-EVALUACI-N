@@ -1,4 +1,4 @@
-# Este programa sirve para 
+# Este programa sirve para introducir 10 numeros y que me devuelva el menor
 def programa():
     num1 = float(input("Enter first number: "))
     num2 = float(input("Enter second number: "))
